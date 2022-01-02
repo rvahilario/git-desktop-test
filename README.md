@@ -1,2 +1,2 @@
-# git desktop test
- Repo testing git for desktopwith VSCODE integration
+# Git desktop test
+ Repository testing git for desktop with VSCODE integration.
